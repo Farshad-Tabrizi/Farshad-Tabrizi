@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farshad-Tabrizi
-- 👀 I’m interested in C & Java..
-- 🌱 I’m currently learning C
+- 👀 I’m interested in Python & Java..
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
